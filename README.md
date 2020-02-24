@@ -1,2 +1,2 @@
 # UnoGameJava
-An JAVA CLI implementation of the UNO Game
+A JAVA CLI implementation of the UNO Game
