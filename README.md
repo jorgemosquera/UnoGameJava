@@ -1,5 +1,6 @@
 # UnoGameJava
-A JAVA CLI implementation of the UNO Game
+A JAVA CLI implementation of the UNO Game.
+The application can be played by users and agents. (Dumb agent, who randomly picks up cards).
 
 ## Game Description
 
