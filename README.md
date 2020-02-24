@@ -22,11 +22,11 @@ The objective of the game is to be the first player to score 500 points, achieve
 ### Functional Requirements
 
 1. Game
-  1.1 Register players
-  1.2 Select a Dealer
-  1.3 Play rounds until there is a Game Winner.
+  1. Register players
+  2. Select a Dealer
+  3. Play rounds until there is a Game Winner.
 2. Round
-  2.1 Setup a round
-  2.2 Check first Draw card
-  2.3 Player Plays.
-  2.4 If there is a winner compute points, if not check card and continue to the next player.
+  1. Setup a round
+  2. Check first Draw card
+  3. Player Plays.
+  4. If there is a winner compute points, if not check card and continue to the next player.
